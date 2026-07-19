@@ -1,0 +1,9 @@
+customer_id,customer_name,city,state,email
+101,Alice,Hyderabad,TS,alice@test.com
+102,Bob,Bangalore,KA,bob@test.com
+103,Charlie,Chennai,TN,charlie@test.com
+104,David,Mumbai,MH,david@test.com
+105,Eva,Pune,MH,eva@test.com
+106,Frank,Delhi,DL,frank@test.com
+107,Grace,Hyderabad,TS,grace@test.com
+108,Helen,Chennai,TN,helen@test.com
