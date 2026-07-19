@@ -1,5 +1,4 @@
 # Azure-Data-Engineering-Retail-Project
-# Azure Data Engineering Project
 
 ## Project Overview
 
