@@ -1,0 +1,1 @@
+The Project 2 Bronze, Silver, and Gold notebooks are being added from the user's Databricks work. This placeholder marks the intended Databricks folder.
